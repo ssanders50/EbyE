@@ -1,0 +1,2 @@
+01:/usr/bin/rm -f lib/slc7_amd64_gcc900/pluginHeavyIonsAnalysisEventAnalysisAuto.so lib/slc7_amd64_gcc900/HeavyIonsAnalysisEventAnalysisAuto.edmplugin
+90:edmPluginRefresh lib/slc7_amd64_gcc900

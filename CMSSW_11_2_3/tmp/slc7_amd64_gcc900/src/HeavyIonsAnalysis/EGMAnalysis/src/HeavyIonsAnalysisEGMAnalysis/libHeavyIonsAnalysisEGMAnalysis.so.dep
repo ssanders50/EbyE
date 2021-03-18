@@ -1,0 +1,4 @@
+tmp/slc7_amd64_gcc900/src/HeavyIonsAnalysis/EGMAnalysis/src/HeavyIonsAnalysisEGMAnalysis/EnergyScaleCorrector.cc.o: \
+ src/HeavyIonsAnalysis/EGMAnalysis/src/EnergyScaleCorrector.cc \
+ src/HeavyIonsAnalysis/EGMAnalysis/interface/EnergyScaleCorrector.h \
+
